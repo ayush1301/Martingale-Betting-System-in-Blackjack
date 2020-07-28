@@ -19,7 +19,7 @@ Thus, I have written this code, which simulates player(s) playing perfect blackj
 
  Although the betting system is fairly simple, some modifications had to be made to make it suitable for the game of blackjack. These modifications are mentioned in the next section. 
 
- ## How to Use the Code
+ ## Running the program
 The important files in the code are:
 1. blackjack python file
 2. All .csv files containing the basic strategy
